@@ -25,3 +25,9 @@ Visualize model behaviour
 Undersatnd predictions
 Author 
 PounrajJS
+The trained model file is not included due to size limits.
+To run this project 
+Train the model using the provided notebook/code
+Save using joblib:
+joblib.dump(model, "house_price_model.pkl")
+place it in the project folder
